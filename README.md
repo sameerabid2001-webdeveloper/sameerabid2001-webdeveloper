@@ -4,7 +4,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f14ef,50:2563EB,100:7DD3FC&height=210&section=header&text=MUHAMMAD%20SAMEER%20ABID&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Web%20Development%20Student&descAlignY=60&descSize=16&animation=fadeIn" />
 
-# Hi 👋, Muhammad Sameer Abid
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;I+build+clean+and+responsive+web+interfaces;Currently+learning+React+%26+TypeScript;Turning+ideas+into+real+projects" alt="Animated typing introduction" />
+</a>
+
 
 ### 💻 Frontend Web Developer | Future Full Stack Developer
 
@@ -19,6 +22,7 @@
 ## 🔗 Connect with me
 
 <div align="center">
+
 
 <!-- <a href="https://alihuzaifa-portfolio.web.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /> -->
@@ -107,6 +111,8 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
 </p> -->
 
+
+
 ### 🧰 Tools & Testing
 
 <p>
@@ -114,6 +120,16 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </p>
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<!-- This image is generated daily by the GitHub Actions workflow in .github/workflows/snake.yml -->
+<img src="https://raw.githubusercontent.com/Hafiz-arman-sheikh/Hafiz-arman-sheikh/output/github-snake.svg" alt="Animated GitHub contribution snake" />
+
+</div>
+
 <!-- <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -138,6 +154,8 @@
 ---
 
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,50:2563EB,100:0F4CFF&height=110&section=footer" />
 
 **Thanks for stopping by!** Feel free to explore my work, If you like my work,
 
