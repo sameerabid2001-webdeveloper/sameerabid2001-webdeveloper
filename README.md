@@ -1,5 +1,9 @@
 <div align="center">
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f14ef,50:2563EB,100:7DD3FC&height=210&section=header&text=MUHAMMAD%20SAMEER%20ABID&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Web%20Development%20Student&descAlignY=60&descSize=16&animation=fadeIn" />
+
 # Hi 👋, Muhammad Sameer Abid
 
 ### 💻 Frontend Web Developer | Future Full Stack Developer
